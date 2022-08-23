@@ -17,5 +17,5 @@ https://www.bilibili.com/video/BV1mm4y1X7Hc?p=1&vd_source=3bb0ba8acee722ac513694
 ![image-20211215095331510](https://user-images.githubusercontent.com/106130061/185892256-aa8cef88-6529-4225-8e8c-9aeb23920ff9.png)
 
 
-数据库权限模型
+数据库权限模型 RBAC权限认证模型
 ![RBAC权限认证模型](https://user-images.githubusercontent.com/106130061/186068066-c8c84107-5bcd-4f56-9ab0-c51127e1069e.png)
